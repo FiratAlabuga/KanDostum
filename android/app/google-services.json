@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133450346192",
+    "project_id": "kandostum-a4b89",
+    "storage_bucket": "kandostum-a4b89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133450346192:android:d5a41c6bb032b6c67578d5",
+        "android_client_info": {
+          "package_name": "com.example.ildonor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133450346192-9f8972h9rg91s43t4c37cog0cpao93qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcptnambWLiyuYTfjwum4ib92_YGTe4fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133450346192-9f8972h9rg91s43t4c37cog0cpao93qr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
